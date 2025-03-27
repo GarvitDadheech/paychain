@@ -1,0 +1,67 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Elements -->
+  <circle cx="300" cy="300" r="250" fill="url(#gradient1)" fill-opacity="0.1"/>
+  <circle cx="300" cy="300" r="200" fill="url(#gradient2)" fill-opacity="0.15"/>
+  <circle cx="300" cy="300" r="150" fill="url(#gradient3)" fill-opacity="0.2"/>
+  
+  <!-- Blockchain Connection Lines -->
+  <path d="M150 250L250 200L350 250L450 200" stroke="url(#gradient4)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 300L250 350L350 300L450 350" stroke="url(#gradient4)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 350L250 300L350 350L450 300" stroke="url(#gradient4)" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Nodes/Blocks -->
+  <circle cx="150" cy="250" r="20" fill="url(#gradient5)"/>
+  <circle cx="250" cy="200" r="20" fill="url(#gradient5)"/>
+  <circle cx="350" cy="250" r="20" fill="url(#gradient5)"/>
+  <circle cx="450" cy="200" r="20" fill="url(#gradient5)"/>
+  
+  <circle cx="150" cy="300" r="20" fill="url(#gradient5)"/>
+  <circle cx="250" cy="350" r="20" fill="url(#gradient5)"/>
+  <circle cx="350" cy="300" r="20" fill="url(#gradient5)"/>
+  <circle cx="450" cy="350" r="20" fill="url(#gradient5)"/>
+  
+  <circle cx="150" cy="350" r="20" fill="url(#gradient5)"/>
+  <circle cx="250" cy="300" r="20" fill="url(#gradient5)"/>
+  <circle cx="350" cy="350" r="20" fill="url(#gradient5)"/>
+  <circle cx="450" cy="300" r="20" fill="url(#gradient5)"/>
+  
+  <!-- Crypto Symbols -->
+  <path d="M295 170L305 170L310 160L300 150L290 160L295 170Z" fill="white"/>
+  <path d="M295 430L305 430L310 440L300 450L290 440L295 430Z" fill="white"/>
+  
+  <circle cx="300" cy="300" r="60" fill="url(#gradient6)" fill-opacity="0.8"/>
+  <path d="M300 340C313.75 340 324.85 330.68 324.85 319.22C324.85 311.29 319.35 304.77 310.7 302.65V301.93C317.9 299.81 322.55 294.2 322.55 286.99C322.55 276.96 312.7 268.67 300 268.67C287.3 268.67 277.45 276.96 277.45 286.99C277.45 294.2 282.1 299.81 289.3 301.93V302.65C280.65 304.77 275.15 311.29 275.15 319.22C275.15 330.68 286.25 340 300 340ZM288.75 288.06C288.75 282.72 293.55 278.45 300 278.45C306.45 278.45 311.25 282.72 311.25 288.06C311.25 293.41 306.45 297.68 300 297.68C293.55 297.68 288.75 293.41 288.75 288.06ZM300 330.22C292.25 330.22 286.45 325.41 286.45 318.86C286.45 312.32 292.25 307.51 300 307.51C307.75 307.51 313.55 312.32 313.55 318.86C313.55 325.41 307.75 330.22 300 330.22Z" fill="white"/>
+  
+  <!-- Definitions for Gradients -->
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    
+    <linearGradient id="gradient2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    
+    <linearGradient id="gradient3" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    
+    <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    
+    <linearGradient id="gradient5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    
+    <linearGradient id="gradient6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+</svg> 
